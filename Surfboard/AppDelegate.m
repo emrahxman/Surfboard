@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    return YES; // deneme 2
+    return YES; // deneme 2x
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
